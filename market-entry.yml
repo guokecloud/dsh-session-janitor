@@ -1,8 +1,8 @@
 # 收录到 awesome-dsh-plugin（插件市场）用的一条条目。
 # 提 PR 时把本文件放到 data/plugins/<owner>__dsh-session-janitor.yml
-# —— 把下面两处 <OWNER> 换成你的 GitHub 用户名（仓库所有者）。
-url: https://github.com/<OWNER>/dsh-session-janitor
-name: <OWNER>/dsh-session-janitor
+# —— 把下面两处 guokecloud 换成你的 GitHub 用户名（仓库所有者）。
+url: https://github.com/guokecloud/dsh-session-janitor
+name: guokecloud/dsh-session-janitor
 category: session
 description:
   en: Lists DSH session records and archive caches on a sidebar page, moves deletions into a restorable recycle bin, and refuses sessions written within the last 10 minutes.

@@ -96,7 +96,7 @@ node --check lib/index.js
 
 仓库侧要求（都已满足）：`package.json` 声明 `dsh.bundle`（`./cordis.patch.yml`）、仓库根有
 `cordis.patch.yml`、仓库带 `dsh-plugin` topic、仓库创建满 1 天、代码真实可用。
-投稿步骤见本目录 `PUSH_GUIDE.md`，条目内容见 `market-entry.yml`。
+投稿条目内容见 `market-entry.yml`（市场只收 GitHub 仓库，一个 YAML 文件就是全部投稿）。
 
 ## 作者 / 许可
 
