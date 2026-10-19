@@ -1,0 +1,6 @@
+# Applied by the profile composer (dsh.bundle.patch) when this package is
+# added to a profile. Mounts the host half: local HTTP routes + the cleanup
+# page served from the same origin as the DSH web GUI.
+- insert:
+    - id: dsh-session-janitor
+      name: dsh-session-janitor
